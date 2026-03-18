@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Mohit Saraswat
 
-<!--
-**mohitsaraswat2006/mohitsaraswat2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI/ML Engineer  
+💻 Currently learning Python, DSA & Web Development  
+📌 Building projects and improving daily  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- HTML, CSS, JavaScript
+- Numpy (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Goals
+- Crack internship 💼
+- Become AI Engineer 🤖
